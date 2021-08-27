@@ -1,0 +1,5 @@
+Map traspasa los elementos de un vector a uno nuevo y los modifica
+en el proceso por medio de una funcion ya definida esta función puede
+ser recursiva o no, también es de orden superior ya que puede recibir 
+como parametros funciones, listas, y patrones de recursión.
+
